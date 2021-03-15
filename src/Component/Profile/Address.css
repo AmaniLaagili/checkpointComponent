@@ -1,0 +1,10 @@
+.address {
+    width: 15%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 40%;
+    margin-top: 40px;
+}
+.titre {
+    font-weight: bold;
+}

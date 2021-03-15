@@ -1,0 +1,17 @@
+.competence {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.para3 {
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+#line {
+    margin-left: 20px;
+}
+.imagecompetence {
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,12 @@
+.formilaire {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.para {
+    font-size: 15px;
+    font-weight: bold;
+}
+.para1 {
+    margin-left: 10px;
+}
